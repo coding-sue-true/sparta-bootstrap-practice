@@ -1,0 +1,33 @@
+body {
+  background-color: gray;
+}
+
+.container {
+  background-color: white;
+  width: 800px;
+}
+
+.col-md-12 {
+  background-color: red;
+  padding: 100px;
+}
+
+.md-4-1 {
+  background-color: blue;
+  padding: 100px;
+}
+
+.md-4-2 {
+  background-color: yellow;
+  padding: 100px;
+}
+
+.md-4-3 {
+  background-color: black;
+  padding: 100px;
+}
+
+.pink {
+  background-color: pink;
+  padding: 100px;
+}
